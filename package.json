@@ -1,0 +1,11 @@
+{
+  "name": "shapiro-discord",
+  "version": "1.0.0",
+  "description": "A personal Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Joseph Shapiro",
+  "license": "ISC"
+}
